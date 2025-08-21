@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" thread-count="1" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.WebOrders.SmokeTest_Batch"/>
+      <class name="com.WebOrders.WebOrder_Login_Create_Unique_Order"/>
+      <class name="com.WebOrders.WebOrder_Login_Create_UpdateOrder_VerifyOrder"/>
+      <class name="com.WebOrders.WebOrder_DeleteOrder_VerifyOrder"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
